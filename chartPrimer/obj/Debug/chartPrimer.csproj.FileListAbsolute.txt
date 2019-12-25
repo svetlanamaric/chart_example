@@ -1,0 +1,9 @@
+C:\Users\Ceca\source\repos\chartPrimer\chartPrimer\obj\Debug\chartPrimer.csprojAssemblyReference.cache
+C:\Users\Ceca\source\repos\chartPrimer\chartPrimer\obj\Debug\chartPrimer.Form1.resources
+C:\Users\Ceca\source\repos\chartPrimer\chartPrimer\obj\Debug\chartPrimer.Properties.Resources.resources
+C:\Users\Ceca\source\repos\chartPrimer\chartPrimer\obj\Debug\chartPrimer.csproj.GenerateResource.cache
+C:\Users\Ceca\source\repos\chartPrimer\chartPrimer\bin\Debug\chartPrimer.exe.config
+C:\Users\Ceca\source\repos\chartPrimer\chartPrimer\bin\Debug\chartPrimer.exe
+C:\Users\Ceca\source\repos\chartPrimer\chartPrimer\bin\Debug\chartPrimer.pdb
+C:\Users\Ceca\source\repos\chartPrimer\chartPrimer\obj\Debug\chartPrimer.exe
+C:\Users\Ceca\source\repos\chartPrimer\chartPrimer\obj\Debug\chartPrimer.pdb
